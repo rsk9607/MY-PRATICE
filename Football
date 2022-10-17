@@ -1,0 +1,20 @@
+a = input()
+p = 0
+m = 0
+i = 1
+s = "NO"
+while i < len(a):
+    if a[i-1] == a[i]:
+        if a[i-1] == '0':
+            p = p+1
+        elif a[i-1] == '1':
+            m = m+1
+    elif a[i-1] != a[i]:
+        p = 0
+        m = 0
+    if p >= 6 or m >= 6:
+        s = "YES"
+        break
+    i = i+1
+
+print(s)
