@@ -4,7 +4,8 @@
         "string": "cpp",
         "ostream": "cpp",
         "xstring": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "factorial": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
