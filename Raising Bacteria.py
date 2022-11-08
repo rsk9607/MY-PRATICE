@@ -1,6 +1,3 @@
 x = int(input())
-
-if x % 2 ==0:
-    print(1)
-else:
-    print(2)
+y = bin(x)
+print(y.count('1'))
