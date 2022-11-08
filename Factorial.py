@@ -10,9 +10,3 @@ t = int(input())
 while t>0 :
     print(math.factorial( int(input())))
     t = t-1
-
-
-
-
-
-
