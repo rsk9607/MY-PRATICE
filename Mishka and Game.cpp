@@ -10,8 +10,14 @@ int main(){
         int x;
         int y;
         cin>>x>>y;
-        m = m+x;
-        c = c+y;
+        if(x>y){
+            m = m+2;
+        } else if(x<y){
+            c = c+2;
+        } else if(x==y){
+            c= c+1;
+            m= m+1;
+        }
     }
     if(m>c){
         cout<<"Mishka \n";
