@@ -1,0 +1,1 @@
+{"name":"Local: Even Hate Odd","url":"c:\\Users\\RSK Akash\\Desktop\\B-tech\\CSE\\C\\Even Hate Odd.py","tests":[{"id":1668109486194,"input":"3\n4\n1 2 3 4\n4\n1 1 1 1\n3\n1 2 3\n","output":"0\n2\n-1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\RSK Akash\\Desktop\\B-tech\\CSE\\C\\Even Hate Odd.py","group":"local","local":true}
