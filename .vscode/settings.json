@@ -5,7 +5,9 @@
         "ostream": "cpp",
         "xstring": "cpp",
         "cmath": "cpp",
-        "factorial": "cpp"
+        "factorial": "cpp",
+        "iterator": "cpp",
+        "xutility": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
