@@ -1,0 +1,1 @@
+{"name":"Local: N triplet","url":"c:\\Users\\RSK Akash\\Desktop\\B-tech\\CSE\\C\\N triplet.py","tests":[{"id":1672844310624,"input":"5\n30\n24\n3\n49\n7","output":"2 3 5\n2 6 4\n-1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\RSK Akash\\Desktop\\B-tech\\CSE\\C\\N triplet.py","group":"local","local":true}

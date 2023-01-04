@@ -1,10 +1,7 @@
 n = int(input())
-x = list(map(int, input().split()))
+x = [int(a) for a in input().split()]
 k = int(input())
-for i in range(n):
-    if x[i] == k:
-        print(i)
-        break
-    else:
-        print(-1)
-        break
+try:
+    print(x.index(k))
+except:
+    print(-1)
