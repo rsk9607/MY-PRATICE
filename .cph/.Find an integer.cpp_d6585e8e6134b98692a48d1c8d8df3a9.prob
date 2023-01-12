@@ -1,0 +1,1 @@
+{"name":"Local: Find an integer","url":"c:\\Users\\RSK Akash\\Desktop\\B-tech\\CSE\\C\\Find an integer.cpp","tests":[{"id":1673449958720,"input":"3\n18 42\n1 1\n100 200","output":"66\n0\n100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\RSK Akash\\Desktop\\B-tech\\CSE\\C\\Find an integer.cpp","group":"local","local":true}
