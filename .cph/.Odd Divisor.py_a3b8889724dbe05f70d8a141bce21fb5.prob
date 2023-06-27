@@ -1,0 +1,1 @@
+{"name":"Local: Odd Divisor","url":"c:\\Users\\RSK Akash\\Desktop\\B-tech\\CSE\\C\\Odd Divisor.py","tests":[{"id":1687857737719,"input":"6\n2\n3\n4\n5\n998244353\n1099511627776\n","output":"NO\nYES\nNO\nYES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\RSK Akash\\Desktop\\B-tech\\CSE\\C\\Odd Divisor.py","group":"local","local":true}
